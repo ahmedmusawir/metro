@@ -1,0 +1,68 @@
+.navbar.navbar-default {
+	margin-bottom: 0px;
+	/*height: 181px;*/
+}
+.custom_menu {
+	height: 11.9555em;
+	/*height: 177px;*/
+	/*background: grey; DOESN'T WORK*/
+}
+.custom_menu_item {
+
+}
+#custom_menu_item_1 {
+	background: red;
+}
+#custom_menu_item_2 {
+	background: orange;
+}
+#custom_menu_item_3 {
+	background: skyblue;
+}
+#custom_menu_item_4 {
+	background: hotpink;
+}
+#custom_menu_item_5 {
+	background: seagreen;
+}
+
+.custom_menu_box {
+	height: 130px;
+	width: 150px;
+	background: black;
+	padding-top: 2em;
+	padding-left: .6em;
+}
+.custom_menu_box_icon {
+	height: 70px;
+	width: 70px;
+	font-size: 1.5em;
+	background: rgba(0,0,0, .3);
+	margin-left: 1.5em;
+}
+.custom_menu_box .glyphicon {
+	padding-left: 1em;
+	padding-top: 1em;
+	color: white;
+}
+
+.make_circle {
+	border-radius: 2em;
+}
+
+
+.red {
+	background: Red;
+}
+.orange {
+	background: Orange;
+}
+.blue {
+	background: SkyBlue;
+}
+.pink {
+	background: HotPink;
+}
+.green {
+	background: SeaGreen;
+}

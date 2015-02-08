@@ -1,0 +1,29 @@
+body {
+	/*margin-top: 50px;*/
+}
+.top_header_nav	 {
+	background: #222222;
+}
+.block_top {
+	/*width: 100%;*/
+	background: rgba(237,241,242, 1);	
+}
+
+#block_middle {
+	/*margin-top: 2em;*/
+}
+
+#footer_main {
+	background: rgba(22,36,47, 1);
+	margin-top: 70px;
+	/*height: 683px;*/
+	height: auto;
+	
+}
+
+.metro_blue {
+	color: #19B2DE;
+}
+.thumbnail {
+	border: 1px solid white;
+}

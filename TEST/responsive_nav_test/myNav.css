@@ -1,0 +1,56 @@
+.navbar.navbar-default {
+	margin-bottom: 0px;
+	/*height: 181px;*/
+}
+.custom_menu {
+	display: inline-block;
+
+	/*height: 11.9555em;*/
+	/*height: 177px;*/
+}
+
+.custom_menu li {
+	display: inline;
+}
+
+
+.custom_menu_box {
+	height: 130px;
+	width: 150px;
+	background: black;
+	padding-top: 2em;
+	padding-left: .6em;
+}
+.custom_menu_box_icon {
+	height: 70px;
+	width: 70px;
+	font-size: 1.5em;
+	background: rgba(0,0,0, .3);
+	margin-left: 1.5em;
+}
+.custom_menu_box .glyphicon {
+	padding-left: 1em;
+	padding-top: 1em;
+	color: white;
+}
+
+.make_circle {
+	border-radius: 2em;
+}
+
+
+.red {
+	background: Red;
+}
+.orange {
+	background: Orange;
+}
+.blue {
+	background: SkyBlue;
+}
+.pink {
+	background: HotPink;
+}
+.green {
+	background: SeaGreen;
+}

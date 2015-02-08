@@ -1,0 +1,40 @@
+article {
+	position: relative;
+}
+.row {
+	margin-top: 1em;
+}
+.thumbnail {
+	padding: 0;
+}
+.img_caption_box {
+	position: absolute;
+	background: rgba(0,0,0, .5);
+	width: 100%;
+	height: 100%;
+	top: 0;
+	opacity: 0;
+		-webkit-transition:all 0.55s ease-in-out;
+		-moz-transition:all 0.55s ease-in-out;
+		-o-transition:all 0.55s ease-in-out;
+		-ms-transition:all 0.55s ease-in-out;
+		transition:all 0.55s ease-in-out;
+}
+.img_caption_box:hover {
+	opacity: 1;
+
+}
+
+.img_caption {
+	margin-top: 5em;
+	color: white;
+
+}
+.img_caption_header {
+	padding-left: 1em;
+
+}
+.img_caption_text {
+	padding-left: 1.5em;
+
+}

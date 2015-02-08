@@ -1,0 +1,100 @@
+.top_title_about {
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+.top_title_about span {
+	padding-right: 1.2em;
+	color: grey;
+}
+.top_title_about small {
+	border-left: 2px solid darkgrey;
+	padding-left: 2.5em;
+	font-size: .5em;
+}
+.top_title_about ol.breadcrumb {
+	background: rgb(237,241,242);
+	padding-left: 0;
+}
+.text_block {
+	text-align: center;
+	margin-top: 5em;
+	margin-bottom: 0em;
+}
+.text_block h2 {
+	padding-bottom: 1.2em;
+}
+.text_block h5 {
+	color: grey;
+	line-height: 2em;
+}
+
+.address_bar li {
+	display: inline;
+
+}
+.address_bar li span{
+	padding-left: 1em;
+	/*color: red;*/
+}
+.address_bar li span.glyphicon{
+	padding-right: 1em;
+	margin-top: 0;
+	padding-top: 0;
+	/*color: red;*/
+}
+
+.text_block_contact {
+	/*text-align: center;*/
+	margin-top: 1.7em;
+}
+.text_block_contact h2 {
+	margin-bottom: 1.5em;
+	font-size: 1.5em;
+}
+.text_block_contact h3 {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+.text_block_contact h4 {
+	color: gray;
+	font-size: 1em;
+	padding-top: 1em;
+}
+.text_block_contact input {
+	border: 1px solid white;
+	background: #F0F0F0; 
+}
+
+.text_block_contact textarea {
+	border: 1px solid white;
+	background: #F0F0F0; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

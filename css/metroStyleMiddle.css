@@ -1,0 +1,399 @@
+/** MAIN STRUCTURAL STUFF **/
+
+#text_block {
+	text-align: center;
+	margin-top: 5em;
+	/*margin-top: 80px;*/
+	margin-bottom: 3.125em;
+	/*margin-bottom: 50px;*/
+}
+#text_block h2 {
+	/*line-height: .7em;*/
+	font-size: 1.5em;
+}
+#text_block h4 {
+	color: gray;
+	font-size: 1em;
+	padding-top: 1em;
+}
+
+#four_box_row {
+	/*height: 320px;*/
+	height: auto;
+	/*margin-top: 2em;*/
+	position: relative;
+}
+
+#three_box_row {
+	/*height: 400px;*/
+	/*height: auto;*/
+
+	/*border: 1px solid red;*/
+}
+
+#two_box_row {
+	/*height: 400px;*/
+	height: auto;
+	/*border: 1px solid blue;*/
+}
+
+#one_box_row {
+	/*height: 100px;*/
+	height: auto;
+	/*border: 1px solid red;*/
+}
+/** MAIN STRUCTURAL STUFF ENDS **/
+
+/** MESSING WITH BOOTSTRAP **/
+.btn-primary {
+	background: #19B2DE;
+}
+
+/** MESSING WITH BOOTSTRAP ENDS **/
+
+
+/** SPECIAL STUFF FOR ROW 1  **/
+div#big_blue_button {
+	margin-top: 2em;
+	margin-bottom: 3em;
+}
+a.blue_btn_text {
+	color: white;
+	text-decoration: none;
+	padding: 1em;
+}
+span#round_or {
+	color: black;
+	background: white;
+	padding-top: .25em;
+	padding-left: .5em;
+	padding-right: .5em;
+	padding-bottom: .25em;
+	border-radius: 22px;
+	text-align: center;
+}
+/** SPECIAL STUFF FOR ROW 1 ENDS **/
+
+/** STUFF FOR FOUR BOX ROW START**/
+
+/* BOX STUFF */
+div#four_box_1 {
+	background: rgba(37,195,137, 1);
+	height: 320px;
+	padding: 0;
+	-webkit-transition:all 0.99s ease-in-out;
+	-moz-transition:all 0.99s ease-in-out;
+	-o-transition:all 0.99s ease-in-out;
+	-ms-transition:all 0.99s ease-in-out;
+	transition:all 0.99s ease-in-out;
+
+}
+div#four_box_1:hover {
+	background: rgba(0,100,237, 1);
+	height: 320px;
+	padding: 0;
+
+}
+div#four_box_2 {
+	background: rgba(255,185,1, 1);
+	height: 320px;
+	padding: 0;
+	border-left: 1px solid white;
+	-webkit-transition:all 0.99s ease-in-out;
+	-moz-transition:all 0.99s ease-in-out;
+	-o-transition:all 0.99s ease-in-out;
+	-ms-transition:all 0.99s ease-in-out;
+	transition:all 0.99s ease-in-out;
+}
+div#four_box_2:hover {
+	background: rgba(155,85,1, 1);
+	height: 320px;
+	padding: 0;
+	border-left: 1px solid white;
+}
+div#four_box_3 {
+	background: rgba(222,98,98, 1);
+	height: 320px;
+	padding: 0;
+	border-left: 1px solid white;
+	-webkit-transition:all 0.99s ease-in-out;
+	-moz-transition:all 0.99s ease-in-out;
+	-o-transition:all 0.99s ease-in-out;
+	-ms-transition:all 0.99s ease-in-out;
+	transition:all 0.99s ease-in-out;
+}
+div#four_box_3:hover {
+	background: rgba(122,8,98, 1);
+	height: 320px;
+	padding: 0;
+	border-left: 1px solid white;
+
+}
+div#four_box_4 {
+	background: rgba(22,97,162, 1);
+	height: 320px;
+	padding: 0;
+	border-left: 1px solid white;
+	-webkit-transition:all 0.99s ease-in-out;
+	-moz-transition:all 0.99s ease-in-out;
+	-o-transition:all 0.99s ease-in-out;
+	-ms-transition:all 0.99s ease-in-out;
+	transition:all 0.99s ease-in-out;
+}
+div#four_box_4:hover {
+	background: rgba(2,77,62, 1);
+	height: 320px;
+	padding: 0;
+	border-left: 1px solid white;
+
+}
+
+/* BARS OF BOX STUFF */
+
+aside.four_box_bar {
+	background: rgba(0,0,0, .2);
+	height: 50px;
+	width: 100%;
+	/*margin-top: 270px;*/
+	margin-top: 17.875em;
+	color: white;
+	padding-left: 1.5em;
+	padding-right: 1em;
+	position: absolute;
+}
+aside.four_box_bar span.four_box_bar_text {
+	padding-top: 1em;
+
+}
+
+aside.four_box_bar .glyphicon-circle-arrow-right {
+	font-size: 1.3em;
+	padding-top: .7em;
+}
+
+
+/* ALL THE FUCKING TEXT AND ICONS */
+
+.four_box_text {
+	margin-left: 1em;
+	color: white;
+}
+.four_box_text p {
+	line-height: .8em;
+}
+.four_box_text h3 {
+	padding-bottom: 1em;
+	padding-top: .8em;
+	font-size: 1.5em;
+}
+
+.four_box_icon_box {
+	color: white;
+	height: 70px;
+	width: 70px;
+	background: rgba(255,255,255, .3);
+	font-size: 2em;
+}
+
+.four_box_icon {
+	padding-left: .7em;
+	padding-top: .7em;
+}
+
+/** STUFF FOR FOUR BOX ROW END**/
+
+/** STUFF FOR THREE BOX ROW STARTS **/
+
+.three_box {
+	position: relative;
+	/*height: 350px;*/
+	/*height: 21.875em;*/
+}
+
+.three_box.thumbnail {
+	padding: 0;
+}
+
+#three_box_1 img {
+	background-color: black;
+	-webkit-transition:all 0.75s ease-in-out;
+	-moz-transition:all 0.75s ease-in-out;
+	-o-transition:all 0.75s ease-in-out;
+	-ms-transition:all 0.75s ease-in-out;
+	transition:all 0.75s ease-in-out;
+	z-index: 0;
+}
+#three_box_1:hover img {
+	transform: scale(0.80,0.80);
+	-webkit-transform:scale(0.80,0.80);
+	-moz-transform:scale(0.80,0.80);
+	-ms-transform:scale(0.80,0.80);
+	-o-transform:scale(0.80,0.80);
+}
+
+#three_box_2 img {
+	background-color: black;
+	-webkit-transition:all 0.75s ease-in-out;
+	-moz-transition:all 0.75s ease-in-out;
+	-o-transition:all 0.75s ease-in-out;
+	-ms-transition:all 0.75s ease-in-out;
+	transition:all 0.75s ease-in-out;
+	z-index: 0;
+}
+#three_box_2:hover img {
+	transform: scale(0.80,0.80);
+	-webkit-transform:scale(0.80,0.80);
+	-moz-transform:scale(0.80,0.80);
+	-ms-transform:scale(0.80,0.80);
+	-o-transform:scale(0.80,0.80);
+}
+#three_box_3 img {
+	background-color: black;
+	-webkit-transition:all 0.75s ease-in-out;
+	-moz-transition:all 0.75s ease-in-out;
+	-o-transition:all 0.75s ease-in-out;
+	-ms-transition:all 0.75s ease-in-out;
+	transition:all 0.75s ease-in-out;
+	z-index: 0;
+}
+#three_box_3:hover img {
+	transform: scale(0.80,0.80);
+	-webkit-transform:scale(0.80,0.80);
+	-moz-transform:scale(0.80,0.80);
+	-ms-transform:scale(0.80,0.80);
+	-o-transform:scale(0.80,0.80);
+}
+
+.three_box_number_box {
+	position: absolute;
+	color: white;
+	height: 70px;
+	width: 100px;
+	background: rgba(155,120,255, 1);
+	font-size: 1em;
+	z-index: 1;
+}
+
+.three_box_text {
+	padding-left: .2em;
+	padding-top: .7em;
+	text-align: center;
+}
+.three_box_text p {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+/*THREE BOX IMAGE BAR AND ICON */
+.three_box_img_bar {
+	position: absolute;
+	height: 60px;
+	width: 100%;
+	top: 290px;
+	background: rgb(25,178,222);
+	z-index: 2;
+}
+
+div.img_icon_box {
+	height: 40px;
+	width: 40px;
+	margin-right: 10px;
+	margin-top: 10px;
+	background: rgba(0,0,0, .3);
+	z-index: 3;
+
+}
+div.img_icon_box .glyphicon {
+	color: Yellow;
+	font-size: 1em;
+	padding-top: .7em;
+	padding-left: .8em;
+}
+
+div.img_text {
+	color: white;
+	padding-left: 1em;
+
+}
+div.img_text p {
+	font-size: .8em;
+	line-height: .2em;
+}
+
+
+/** STUFF FOR THREE BOX ROW ENDS **/
+
+/** ACCORDION AND TAB BOX PARTNER ROW STARTS**/
+/*#accordion .panel-primary {
+	background: #DEB219;
+}
+.panel-heading {
+	border: 1px solid red;	
+}
+red {
+	background: red;
+}*/
+/*.panel-title span {
+	background: black;
+	height: 40px;
+	width: 100px;
+	font-size: 1.2em;
+}*/
+
+.nav-tabs li a {
+	border-top: 1px solid lightgrey;
+	border-right: 1px solid lightgrey;
+	background-color: #F5F5F5;
+}
+/*.tab_content {
+	border: 1px solid red;
+
+}*/
+
+.tab-pane {
+	border-left: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+	border-right: 1px solid lightgrey;
+}
+.media {
+	padding-left: 2em;
+}
+.media#tab_top_item {
+	padding-top: 1.5em;
+}
+
+
+/** ACCORDION AND TAB BOX PARTNER ROW ENDS**/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

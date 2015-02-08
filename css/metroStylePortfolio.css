@@ -1,0 +1,46 @@
+.top_title_about {
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+.top_title_about span {
+	padding-right: 1.2em;
+	color: grey;
+}
+.top_title_about small {
+	border-left: 2px solid darkgrey;
+	padding-left: 2.5em;
+	font-size: .5em;
+}
+.top_title_about ol.breadcrumb {
+	background: rgb(237,241,242);
+	padding-left: 0;
+}
+.text_block {
+	text-align: center;
+	margin-top: 5em;
+	margin-bottom: 1em;
+}
+.text_block .fa-rotate-right {
+	padding-right: .8em;
+
+}
+
+
+.text_block_portfolio {
+	text-align: center;
+	margin-top: 3em;
+	margin-bottom: 1em;
+}
+.text_block_portfolio h2 {
+	font-size: 1.5em;
+}
+.text_block_portfolio h3 {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+.text_block_portfolio h4 {
+	color: gray;
+	font-size: 1em;
+	padding-top: 1em;
+}
+

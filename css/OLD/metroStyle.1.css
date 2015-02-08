@@ -1,0 +1,22 @@
+body {
+	margin-top: 50px;
+}
+
+#block_top {
+	/*width: 100%;*/
+	background: rgba(237,241,242, 1);	
+}
+
+#block_middle {
+	/*margin-top: 2em;*/
+}
+
+#footer_main {
+	background: rgba(22,36,47, 1);
+	margin-top: 70px;
+	height: 683px;
+}
+
+.dodger_blue {
+	color: DodgerBlue;
+}
