@@ -1,8 +1,8 @@
 <section class="container">
 	<div class="row top_title">
-		<article class="col-md-12">
-			<h2>Our Showcase Portfolio</h2>
-			<h4>This is my featured porject built in WordPress</h4>
+		<article class="col-md-12 ">
+			<h1><span>Our Showcase Portfolio</span></h1>
+			<h4><span>This is my featured porject built in WordPress</span></h4>
 		</article>	
 	</div>
 

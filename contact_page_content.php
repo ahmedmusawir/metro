@@ -2,7 +2,7 @@
 <section class="container">
 		<div class="row top_title_about">
 			<article class="visible-md visible-lg">
-				<h1><span>Contact US</span>  <small>If you try to contact us, we will kick your ass ...</small></h1>
+				<h1><span>Contact Us</span>  <small>If you try to contact us, we will amaze you ...</small></h1>
 				<ol class="breadcrumb pull-left">
 				  <li><a href="index.php">HOME</a></li>
 				  <li class="active">CONTACT</li>
@@ -11,8 +11,8 @@
 
 			<!-- FOR SM AND XS SCREEN ONLY -->
 			<article class="visible-xs visible-sm  text-center">
-				<h1><span>Contact US</span>  </h1>
-				<h4><span>If you try to contact us, we will kick your ass ...</span></h4>
+				<h1><span>Contact Us</span>  </h1>
+				<h4><span>If you try to contact us, we will amaze you ...</span></h4>
 				<ol class="breadcrumb text-center">
 				  <li><a href="index.php">HOME</a></li>
 				  <li class="active">CONTACT</li>

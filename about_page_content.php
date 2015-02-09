@@ -1,14 +1,19 @@
 <div class="block_top">
 <section class="container">
 		<div class="row top_title_about">
-			<article class="col-md-">
-				<h1 class="hidden-xs"><span>About Us</span>  <small>If you have an idea, We can make it happen ...</small></h1>
-				<div class="visible-xs text-center"><h1><span>About Us<span></h1><h4><span>If you have an idea, We can make it happen ...</span></h4></div>
-				<ol class="breadcrumb pull-left hidden-xs">
+			<article class="visible-md visible-lg">
+				<h1><span>About Us</span>  <small>If you have an idea, We can make it happen ...</small></h1>
+				<ol class="breadcrumb pull-left">
 				  <li><a href="index.php">HOME</a></li>
 				  <li class="active">ABOUT</li>
 				</ol>
-				<ol class="breadcrumb visible-xs text-center">
+			</article>
+
+			<!-- FOR SM AND XS SCREEN ONLY -->
+			<article class="visible-xs visible-sm  text-center">
+				<h1><span>About Us</span>  </h1>
+				<h4><span>If you have an idea, We can make it happen ...</span></h4>
+				<ol class="breadcrumb text-center">
 				  <li><a href="index.php">HOME</a></li>
 				  <li class="active">ABOUT</li>
 				</ol>
@@ -16,6 +21,7 @@
 		</div>
 </section> 
 </div>
+
 <section class="container">
 		<div class="row">
 			<article class="text_block">

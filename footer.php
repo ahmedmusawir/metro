@@ -16,10 +16,10 @@
 		
 	</footer>
 	<footer class="row" id="footer_row_3">
-		<article class="col-md-6" id="footer_row3_col1">
+		<article class="col-md-5 col-sm-12 col-lg-6 col-xs-12" id="footer_row3_col1">
 			<p class="footer_row_2_text">A Production of <span class="dodger_blue">CyberSane.com</span> Copy Right Protected &copy; 2013</p>
 		</article>
-		<article class="col-md-6" id="footer_row3_col2">
+		<article class="col-md-7 col-sm-12 col-lg-6 col-xs-12" id="footer_row3_col2">
 			<ul class='list-inline pull-right'>
 				<a href="index.php"><li class='btn btn-primary'>Home</li></a>
 				<a href="about_page.php"><li class='btn btn-success'>About</li></a>
