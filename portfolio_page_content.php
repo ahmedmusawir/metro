@@ -48,8 +48,8 @@
 				<img class="thumbnail" src="_images/portfolio_img_6.jpeg" alt="people">
 				<img class="thumbnail" src="_images/portfolio_img_7.jpeg" alt="people">
 				<img class="thumbnail" src="_images/portfolio_img_8.jpeg" alt="people">
-				<!-- <img class="thumbnail" src="_images/about_people_img_3.jpeg" alt="people"> -->
-				<!-- <img class="thumbnail" src="http://lorempixel.com/250/250/animals/7" alt="animals"> -->
+				<img class="thumbnail" src="_images/about_people_img_3.jpeg" alt="people">
+				<img class="thumbnail" src="http://lorempixel.com/250/250/animals/7" alt="animals">
 				<!-- <img class="thumbnail" src="http://lorempixel.com/250/250/animals/8" alt="animals"> -->
 				<!-- <img class="thumbnail" src="http://lorempixel.com/250/500/animals/10" alt="animals"> -->
 			</article>
@@ -58,8 +58,8 @@
 				<img class="thumbnail" src="_images/portfolio_img_10.jpeg" alt="people">
 				<img class="thumbnail" src="_images/portfolio_img_11.jpeg" alt="people">
 				<img class="thumbnail" src="_images/portfolio_img_12.jpeg" alt="people">
-				<!-- <img class="thumbnail" src="http://lorempixel.com/250/300/fashion/7" alt="people"> -->
-				<!-- <img class="thumbnail" src="http://lorempixel.com/250/400/fashion/8" alt="people"> -->
+				<img class="thumbnail" src="http://lorempixel.com/250/300/fashion/7" alt="people">
+				<img class="thumbnail" src="http://lorempixel.com/250/400/fashion/8" alt="people">
 				<!-- <img class="thumbnail" src="http://lorempixel.com/250/300/fashion/9" alt="people"> -->
 				<!-- <img class="thumbnail" src="_images/about_people_img_4.jpeg" alt="people"> -->
 			</article>
@@ -68,8 +68,8 @@
 				<img class="thumbnail" src="_images/portfolio_img_14.jpeg" alt="people">
 				<img class="thumbnail" src="_images/portfolio_img_15.jpeg" alt="people">
 				<img class="thumbnail" src="_images/portfolio_img_16.jpeg" alt="people">
-				<!-- <img class="thumbnail" src="_images/about_people_img_1.jpeg" alt="people"> -->
-				<!-- <img class="thumbnail" src="http://lorempixel.com/250/400/nightlife/4" alt="people"> -->
+				<img class="thumbnail" src="_images/about_people_img_1.jpeg" alt="people">
+				<img class="thumbnail" src="http://lorempixel.com/250/400/nightlife/4" alt="people">
 				<!-- <img class="thumbnail" src="http://lorempixel.com/250/300/nightlife/5" alt="people"> -->
 				<!-- <img class="thumbnail" src="http://lorempixel.com/250/300/nightlife/6" alt="people"> -->
 			</article>
